@@ -1,0 +1,25 @@
+Package: CLEA
+Type: Package
+Title: CLEA functions
+Version: 0.1.0
+Author: Kirill Kalinin
+Maintainer: The package maintainer <kkalinin@umich.edu>
+Description: This function builds the party nationalization datasets at three different levels of aggregation: the national level, the party level, and the constituency level.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+      utils,
+      stats,
+      foreign,
+      readstata13,
+      magrittr,
+      dplyr,
+      ineq,
+      XML
+Suggests: 
+      testthat (>= 2.1.0),
+      knitr,
+      rmarkdown
+VignetteBuilder: knitr

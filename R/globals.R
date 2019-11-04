@@ -1,0 +1,13 @@
+globalVariables(names=c('ctr_n', 'ctr', 'yr', 'cst', 'cst_n', 'pty', 'pty_n', 'vv1', 'pv1', 'seat',
+                        '.', 'na_cand', 'sin_const', 'pty_nat_vv1', 'nat_vv1', 'nat_pvs', 'pvs', 'giniI',
+                        'PNS', 'district_size', 'pty_vv1', 'cst_vv1', 'vote_share', 'p_j', 'inside', 'numerator',
+                        'denominator', 'cst_vv1_new', 'p_j_new', 'inside_new', 'numerator_new', 'PNS_w', 'alt_vv1',
+                        'PNS_w_new', 'PNS_s', 'pid', 'square', 'helper', 'top', 'bottom', 'power_E', 'PNS_sw',
+                        'party_prop_nat2', 'denom', 'ENEP_nat', 'new_vv1', 'share2', 'indicator', 'cst_wght',
+                        'ENEP_cst', 'weighted', 'ENEP_avg', 'ENEP_wght', 'nat_vote', 'cst_vote_proportion', 'product',
+                        'n_districts', 'sum_cst', 'I_i', 'I_w', 'W_tilde', 'sum_numerator', 'numerator2', 'denominator2',
+                        'sum_denominator2','sum_numerator2', 'sq_sum_denominator2', 'coeff_var_I_i', 'kurtosis_I_i',
+                        'alpha', 'weight','PSNS','PSNS_s', 'PSNS_w', 'PSNS_sw', 'MK_N_two', 'MK_N', 'seat_cst',
+                        'seat_contest', 'seat_total', 'party_vote_proportion', 'seat_proportion', 'local_E', 'Cox',
+                        'MK_I', 'MK_I_w', 'nvvi', 'inflation1', 'inflation2', 'inflation3', 'inflation4', 'ENP_nat',
+                        'ENP_avg', 'ENP_wght', 'cvvi', 'ENP_cst', 'inflation5'), add=TRUE)
